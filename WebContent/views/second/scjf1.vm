@@ -1,0 +1,7 @@
+<html>
+        <head></head>
+        <body>
+        <h1>in scjf1</h1>
+        #msg("hello"), it's $date.format("yy-MM-dd HH:mm:ss", $now)
+        </body>
+</html>
